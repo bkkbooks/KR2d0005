@@ -280,6 +280,7 @@ markers:
   - {type: substitution, offset: 992, original: 煇, replacement: 輝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17449}}
   - {type: substitution, offset: 994, original: 荘, replacement: 莊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20700}}
   - {type: punctuation, offset: 996, content: (, id: KR2d0005_krp_042-bkkpn1}
+  - {type: voice, offset: 996, length: 35, name: note, id: n1}
   - {type: substitution, offset: 1006, original: 荘, replacement: 莊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20700}}
   - {type: punctuation, offset: 1010, content: /, id: KR2d0005_krp_042-bkkpn2}
   - {type: substitution, offset: 1013, original: 煇, replacement: 輝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17449}}
@@ -814,6 +815,7 @@ markers:
   - {type: variant, offset: 3227, length: 3, content: 孑焉正, WYG: 􅐐}
   - {type: 'kr:non-cjk', offset: 3228, content: '*', id: KR2d0005_krp_042-bkkkrnonc2}
   - {type: punctuation, offset: 3228, content: (, id: KR2d0005_krp_042-bkkpn7}
+  - {type: voice, offset: 3228, length: 2, name: note, id: n2}
   - {type: 'kr:non-cjk', offset: 3229, content: '-', id: KR2d0005_krp_042-bkkkrnonc3}
   - {type: 'kr:non-cjk', offset: 3230, content: '+?', id: KR2d0005_krp_042-bkkkrnonc4}
   - {type: punctuation, offset: 3230, content: ), id: KR2d0005_krp_042-bkkpn8}
@@ -919,4 +921,4 @@ markers:
 
       ', id: KR2d0005_krp_042-bkkkrnewl197}
   back: []
-hash: sha256:14917cc3d37ca971e32d45678e06a4b807a88d1f8533a9e6a6ef7cf4db3706e6
+hash: sha256:c5f1fa6896909c40c8229e60dfc88eca54358adc595cffd05c34d8d7190663bc

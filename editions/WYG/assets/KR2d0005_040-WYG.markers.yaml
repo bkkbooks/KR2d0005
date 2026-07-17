@@ -185,6 +185,7 @@ markers:
       ', id: KR2d0005_WYG_040-bkkkrnewl43}
   - {type: line-break, offset: 772, content: '', id: KR2d0005_WYG_040-3a08}
   - {type: punctuation, offset: 792, content: (, id: KR2d0005_WYG_040-bkkpn1}
+  - {type: voice, offset: 792, length: 95, name: note, id: n1}
   - {type: punctuation, offset: 793, content: /, id: KR2d0005_WYG_040-bkkpn2}
   - {type: punctuation, offset: 794, content: ), id: KR2d0005_WYG_040-bkkpn3}
   - {type: 'kr:newline', offset: 794, content: '
@@ -1481,6 +1482,7 @@ markers:
       ', id: KR2d0005_WYG_040-bkkkrnewl364}
   - {type: line-break, offset: 6832, content: '', id: KR2d0005_WYG_040-21a05}
   - {type: punctuation, offset: 6850, content: (, id: KR2d0005_WYG_040-bkkpn13}
+  - {type: voice, offset: 6850, length: 25, name: note, id: n2}
   - {type: punctuation, offset: 6853, content: /, id: KR2d0005_WYG_040-bkkpn14}
   - {type: punctuation, offset: 6856, content: ), id: KR2d0005_WYG_040-bkkpn15}
   - {type: 'kr:newline', offset: 6856, content: '
@@ -1559,9 +1561,11 @@ markers:
       ', id: KR2d0005_WYG_040-bkkkrnewl382}
   - {type: line-break, offset: 7180, content: '', id: KR2d0005_WYG_040-22a05}
   - {type: punctuation, offset: 7184, content: (, id: KR2d0005_WYG_040-bkkpn19}
+  - {type: voice, offset: 7184, length: 12, name: note, id: n3}
   - {type: punctuation, offset: 7190, content: /, id: KR2d0005_WYG_040-bkkpn20}
   - {type: punctuation, offset: 7196, content: ), id: KR2d0005_WYG_040-bkkpn21}
   - {type: punctuation, offset: 7201, content: (, id: KR2d0005_WYG_040-bkkpn22}
+  - {type: voice, offset: 7201, length: 22, name: note, id: n4}
   - {type: punctuation, offset: 7207, content: /, id: KR2d0005_WYG_040-bkkpn23}
   - {type: punctuation, offset: 7213, content: ), id: KR2d0005_WYG_040-bkkpn24}
   - {type: 'kr:newline', offset: 7213, content: '
@@ -1772,4 +1776,4 @@ markers:
 
       ', id: KR2d0005_WYG_040-bkkkrnewl431}
   back: []
-hash: sha256:02a27d12fb070bd070b6b412015de9d53fc2253e873de630906a1d891b05faa0
+hash: sha256:989d85dc35bca34b0ebb77859215962ca4fff6c9ead7e296593066ad450d656d

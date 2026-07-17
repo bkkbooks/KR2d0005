@@ -59,6 +59,7 @@ markers:
       ', id: KR2d0005_krp_008-bkkkrnewl9}
   - {type: line-break, offset: 120, content: '', id: KR2d0005_WYG_008-1b01}
   - {type: punctuation, offset: 127, content: (, id: KR2d0005_krp_008-bkkpn1}
+  - {type: voice, offset: 127, length: 72, name: note, id: n1}
   - {type: punctuation, offset: 141, content: /, id: KR2d0005_krp_008-bkkpn2}
   - {type: punctuation, offset: 155, content: ), id: KR2d0005_krp_008-bkkpn3}
   - {type: 'kr:newline', offset: 155, content: '
@@ -93,6 +94,7 @@ markers:
   - {type: line-break, offset: 261, content: '', id: KR2d0005_WYG_008-1b06}
   - {type: substitution, offset: 264, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 267, content: (, id: KR2d0005_krp_008-bkkpn10}
+  - {type: voice, offset: 267, length: 58, name: note, id: n2}
   - {type: punctuation, offset: 282, content: /, id: KR2d0005_krp_008-bkkpn11}
   - {type: punctuation, offset: 297, content: ), id: KR2d0005_krp_008-bkkpn12}
   - {type: 'kr:newline', offset: 297, content: '
@@ -285,6 +287,7 @@ markers:
   - {type: line-break, offset: 1026, content: '', id: KR2d0005_WYG_008-4a01}
   - {type: substitution, offset: 1035, original: 弑, replacement: 弒, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20771}}
   - {type: punctuation, offset: 1041, content: (, id: KR2d0005_krp_008-bkkpn16}
+  - {type: voice, offset: 1041, length: 20, name: note, id: n3}
   - {type: punctuation, offset: 1047, content: /, id: KR2d0005_krp_008-bkkpn17}
   - {type: punctuation, offset: 1053, content: ), id: KR2d0005_krp_008-bkkpn18}
   - {type: 'kr:newline', offset: 1053, content: '
@@ -859,4 +862,4 @@ markers:
 
       ', id: KR2d0005_krp_008-bkkkrnewl179}
   back: []
-hash: sha256:cc2a328f3ed66bb25ae66432a36cee91b1031ccf47eb5644ef591571f3cbd719
+hash: sha256:762f09124d2d6ba63d43ff6a4671a0f64c76e742ea25b3f42d35618973ccf2da
